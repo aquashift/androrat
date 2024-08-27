@@ -1,6 +1,6 @@
 console.log("Hello, World!");
 
-// Define items snd recipes
+/Define items snd recipes
 let recipes = {
     "phoenix_ashes": {
         "phoenix feather": 4,
